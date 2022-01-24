@@ -6,7 +6,7 @@ It uses some react-native-community packages to help with checkbox, slider and p
 
 ## Installation
 
-    $ npm install react-hook-form rhfa-react-native @react-native-community/checkbox @react-native-community/slider @react-native-community/picker --save
+    $ npm install react-hook-form rhfa-react-native @react-native-community/checkbox @react-native-community/slider @react-native-picker/picker --save
 
 ## Usage
 
